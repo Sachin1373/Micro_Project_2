@@ -234,6 +234,7 @@ img{
 }
 .right h2{
     font-family: inter;
+    color: #04285A;
     font-weight: 700;
     margin-left: 30px;
     margin-top: 50px;
@@ -251,15 +252,17 @@ img{
     line-height: 28.13px;
     letter-spacing: 0.05em;
     padding-left: 15px;
+    color: #143565;
 
 }
 span{
     font-family: Roboto;
-font-size: 18px;
-font-weight: 500;
-line-height: 40.81px;
-letter-spacing: 0.105em;
-text-align: left;
+    color: #04285A;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 40.81px;
+    letter-spacing: 0.105em;
+    text-align: left;
 
 }
 #next{
